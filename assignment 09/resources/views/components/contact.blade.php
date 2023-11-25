@@ -66,7 +66,7 @@
                                 <span>60/2 Abdul aziz lane <br>Azimpur, Dhaka</span>
                             </div>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>

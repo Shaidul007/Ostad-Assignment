@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-lg-7">
           <div class="st-copyright-wrap">
-            <div class="st-copyright-text">© 2023. Designed by Shaidul. All right reserved.</div>
+            <div class="st-copyright-text">© 2023. Designed by <a href="http://shaidul.hifive03.com/">Shaidul</a>. All right reserved.</div>
           </div>
         </div>
         <div class="col-lg-5">
